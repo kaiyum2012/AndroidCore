@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toast">Toast</string>
+    <string name="custom_toast">Custom Toast</string>
+    <string name="notify">Simple Notify</string>
+    <string name="channel_name">test_name</string>
+    <string name="channel_desc">this is channel description</string>
+    <string name="notification_activity">notification Activity</string>
+    <string name="regular_activity">Regular Activity</string>
+    <string name="special_activity">Special Activity</string>
+    <string name="notification_activity_examples">Notification Activity Examples</string>
+    <string name="on_notification_tap_event_regular_activity">On notification Tap event - regular Activity</string>
+    <string name="notification_examples">Notification Examples</string>
+    <string name="tap_action">tap action</string>
+    <string name="notification_action_button">Action Button</string>
+    <string name="snooze">Snooze</string>
+    <string name="direct_reply_notification">Direct Reply Action *</string>
+    <string name="expandable_notification">Expandable Notification</string>
+</resources>
